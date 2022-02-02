@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x86F97Efa0A163fb18F57EF7fdC6D708EfF49DD9F",
+  "SCAN_LINK": "https://polygonscan.com/address/0x86f97efa0a163fb18f57ef7fdc6d708eff49dd9f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Project Terror Bird",
+  "SYMBOL": "PTB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/project-terror-bird",
+  "SHOW_BACKGROUND": true
+}
